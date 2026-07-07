@@ -1,0 +1,8 @@
+{
+  "updatePromptEnabled": true,
+  "appStoreUrl": "www.baidu.com",
+  "latestVersion": "1.0.0",
+  "minSupportedVersion": "1.0.0",
+  "title": "App Update",
+  "message": "A newer version may be available. Download the latest version for the best experience."
+}
