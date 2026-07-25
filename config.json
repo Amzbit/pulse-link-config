@@ -1,5 +1,5 @@
 {
-  "updatePromptEnabled": true,
+  "updatePromptEnabled": false,
   "appStoreUrl": "https://www.baidu.com",
   "latestVersion": "1.0.0",
   "minSupportedVersion": "1.0.0",
